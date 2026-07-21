@@ -1,16 +1,86 @@
-## Hi there 👋
+# Hi, I'm Nelvin Mwendwa 👋
 
-<!--
-**saint-art/saint-art** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student passionate about building backend systems, data engineering pipelines, and Python applications.
 
-Here are some ideas to get you started:
+## Currently Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Backend Development with Flask
+- Data Engineering
+- REST API Development
+- SQLite Database Design
+- Python Automation
+
+---
+
+## Featured Projects
+
+### UN Security Council Sanctions Explorer
+
+A production-ready Flask web application for searching and exploring the United Nations Security Council Consolidated Sanctions List.
+
+### Features
+
+- Advanced Search
+- Dashboard
+- REST API
+- Health Monitoring
+- CSV Export
+- Excel Export
+- Live Deployment
+
+Live Demo
+
+https://un-sanctions-explorer.onrender.com
+
+Repository
+
+https://github.com/saint-art/UN-Sanctions-Explorer
+
+---
+
+### UN Security Council ETL Pipeline
+
+An end-to-end Python ETL pipeline that extracts, transforms and loads sanctions data into a normalized SQLite database.
+
+Repository
+
+https://github.com/saint-art/UN-Sanctions-ETL
+
+---
+
+## Technologies
+
+Python
+
+Flask
+
+SQLite
+
+Pandas
+
+BeautifulSoup
+
+REST APIs
+
+Git
+
+GitHub
+
+---
+
+## Currently Learning
+
+- Backend Architecture
+- Database Design
+- Cloud Deployment
+- Data Engineering
+
+---
+
+## Contact
+
+LinkedIn (Coming Soon)
+
+GitHub
+
+https://github.com/saint-art
