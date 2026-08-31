@@ -79,7 +79,9 @@ GitHub
 
 ## Contact
 
-LinkedIn (Coming Soon)
+LinkedIn 
+
+https://www.linkedin.com/in/nelvin-mwendwa/
 
 GitHub
 
